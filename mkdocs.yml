@@ -1,0 +1,20 @@
+site_name: Online Course
+
+theme: material
+
+markdown_extensions:
+  - admonition
+
+plugins:
+  - mkdocs-nav-enhancements
+  - search
+  - autozip:
+      download_images: true
+      verbose: true
+      source_zip_nav_description: Download course material (zip)
+      source_zip_file_name: course.zip
+
+nav:
+  - Home: index.md
+  - Name of week 1:
+    - week-1/fl-course-w1-step01.md

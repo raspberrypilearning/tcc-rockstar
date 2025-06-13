@@ -1,0 +1,1 @@
+print('Welcome to the Ed Dev template code editor project!')

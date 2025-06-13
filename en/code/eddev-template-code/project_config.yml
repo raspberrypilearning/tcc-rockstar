@@ -1,0 +1,4 @@
+name: 'Ed Dev Template Code Editor project - should not be built!'
+identifier: 'eddev-template-code'
+type: 'python'
+build: false

@@ -1,0 +1,3 @@
+An important note for teachers in England: for this course to count towards a National Centre for Computing Education certificate, you must [join via the Teach Computing website](https://teachcomputing.org/courses/LINK_TO_COURSE). You can do this even if you’ve already started the course. By joining through the link above, you will have access to the course materials and be eligible for bursary payments for your school to cover the time you spend training. There is a huge range of fantastic, DfE-funded, face-to-face and online courses that count towards a professionally-recognised qualification. Visit [our courses homepage](https://teachcomputing.org/courses) to browse what’s on offer.
+
+Happy Learning!
