@@ -1,0 +1,36 @@
+body {
+  background-color: #b566ff;
+  color: #fff;
+  font-family: "Roboto", sans-serif;
+  width: 500px;
+  margin: auto;
+}
+
+body#end {
+  background-color: #000;
+  width: 400px;
+  margin: auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+img {
+  float: left;
+  padding: 5px;
+  margin: 5px;
+}
+
+p#submit {
+  display: block;
+  text-align: center;
+  width: 120px;
+  background-color: #ccc;
+  padding: 5px;
+}
+
+p#submit a {
+  text-decoration: none;
+  color: #000;
+}
