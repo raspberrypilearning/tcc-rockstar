@@ -1,4 +1,4 @@
 name: 'The Computing Curriculum - Rockstar Activity'
 identifier: 'tcc-rockstar'
 type: 'html'
-build: true
+build: false
